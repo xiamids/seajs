@@ -2,7 +2,7 @@
  * @Author: xiami qq1820983743 
  * @Date: 2018-11-15 10:44:39 
  * @Last Modified by: xiami qq1820983743
- * @Last Modified time: 2018-11-16 15:20:43
+ * @Last Modified time: 2018-11-16 22:49:03
  */
 
 
@@ -28,7 +28,7 @@
         $('#showBut').on('click',function(){
             changeColor.showColor();
             changeWidth.newWidth();
-            console.log("aaaa");
+            //console.log("aaaa");
             
         })
         
