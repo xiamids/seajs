@@ -2,7 +2,7 @@
  * @Author: xiami qq1820983743 
  * @Date: 2018-11-15 10:44:39 
  * @Last Modified by: xiami qq1820983743
- * @Last Modified time: 2018-11-16 08:46:50
+ * @Last Modified time: 2018-11-16 10:36:54
  */
 
 
@@ -15,7 +15,8 @@
      alias:{
          'jquery':'jquery/jquery',
          'main':'static/main',
-        'changeColor':'static/changeColor'
+        'changeColor':'static/changeColor',
+        'changeWidth':'static/changeWidth'
      }
  })
 
