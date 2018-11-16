@@ -2,7 +2,7 @@
  * @Author: xiami qq1820983743 
  * @Date: 2018-11-15 10:44:39 
  * @Last Modified by: xiami qq1820983743
- * @Last Modified time: 2018-11-16 10:36:54
+ * @Last Modified time: 2018-11-16 15:20:43
  */
 
 
@@ -27,7 +27,9 @@
         $('.test').after('<button id="showBut">我是插入的按钮</button>');
         $('#showBut').on('click',function(){
             changeColor.showColor();
-            changeWidth.newWidth()
+            changeWidth.newWidth();
+            console.log("aaaa");
+            
         })
         
     })
